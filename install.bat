@@ -20,7 +20,6 @@ powershell -ExecutionPolicy Bypass -Command "Start-Service termservice"
 net start /Y TermService
 net start /Y TermService
 
-pause
 
 
 
